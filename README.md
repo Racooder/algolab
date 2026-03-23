@@ -28,6 +28,9 @@ GitHub: [https://github.com/K1ngGrim/algolab.git](https://github.com/K1ngGrim/al
 3. **Wichtig:**
    Öffne den Ordner `labor_loesung` als Projekt (nicht das gesamte Repository).
 
+4. Eventuell JUnit zum Classpath hinzufügen
+   Deine IDEA will das du JUnit zum Classpath hinzufügst. Mach das einfach, das ist schon korrekt so!!!!
+
 ## Tests ausführen
 
 Um zu überprüfen, ob alles korrekt eingerichtet ist:
