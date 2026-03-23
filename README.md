@@ -2,6 +2,9 @@
 
 Dieses Repository stellt die **Basis zur Bearbeitung der Übungsaufgaben** im Modul *Algorithmen und Datenstrukturen* bereit.
 
+## Install Git
+https://github.com/git-guides/install-git
+
 ## Repository
 
 GitHub: [https://github.com/K1ngGrim/algolab.git](https://github.com/K1ngGrim/algolab.git)
